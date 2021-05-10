@@ -76,7 +76,7 @@ Un dispositivo IoT se compone típicamente de una placa de circuito con sensores
 
 <h2 style="color:#00BCD4"> Modelo OSI </h2>
 
-<img src="https://osbraghe1826.files.wordpress.com/2018/05/modelo_osi.jpg?w=660" width="400" title="Back y Front">
+<img src="https://osbraghe1826.files.wordpress.com/2018/05/modelo_osi.jpg?w=660" width="400" title="OSI Model">
 
 <h2 style="color:#00BCD4"> Big Data</h2>
 
@@ -90,4 +90,6 @@ Los datos vienen en todos los formatos y tamaños. Cuando hablamos de big data, 
 
 <h2 style="color:#00BCD4"> BackEnd y Frontend </h2>
 
-<img src="https://edteam-media.s3.amazonaws.com/community/original/a66f8dcb-a32c-4a67-8409-59b3ab44ef31.jpg" width="400" title="Back y Front">
+<img src="https://edteam-media.s3.amazonaws.com/community/original/a66f8dcb-a32c-4a67-8409-59b3ab44ef31.jpg" width="400" title="BackyFront">
+
+
