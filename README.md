@@ -88,8 +88,5 @@ Los datos vienen en todos los formatos y tamaños. Cuando hablamos de big data, 
 |Azure HDInsight|Procese cantidades masivas de datos con clústeres administrados de clústeres de Hadoop en la nube.|
 |Azure Databricks|Integre este servicio colaborativo de análisis basado en Apache Spark con otros servicios de big data en Azure.|
 
-<h2 style="color:#00BCD4"> BackEnd y Frontend </h2>
-
-<img src="https://edteam-media.s3.amazonaws.com/community/original/a66f8dcb-a32c-4a67-8409-59b3ab44ef31.jpg" width="400" title="BackyFront">
 
 
